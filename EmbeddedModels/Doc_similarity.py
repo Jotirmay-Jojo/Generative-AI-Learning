@@ -33,6 +33,12 @@ print(query)
 print(documents[index])
 print(score)
 
+print("doc_emb")
+print(doc_emb)
+print("quer_emb")
+print(quer_emb)
+print("scores")
+print(scores)
 
 #CPT
 # ranked = sorted(list(enumerate(scores)), key=lambda x: x[1], reverse=True)

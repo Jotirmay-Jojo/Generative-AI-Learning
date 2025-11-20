@@ -2,10 +2,6 @@
 langchain
 langchain-core
 
-# OpenAI Integration
-langchain-openai
-openai
-
 # Anthropic Integration
 langchain-anthropic
 
