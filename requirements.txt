@@ -9,6 +9,7 @@ langchain-anthropic
 langchain-google-genai
 google-generativeai
 google-genai
+langchain_core.pydantic_v1
 
 # Hugging Face Integration
 langchain-huggingface
